@@ -1,5 +1,5 @@
 # z-buffer-trainer
-This program teaches a machine learning model about the Z-buffer technique found in graphics card drivers and Graphics APIs like DirectX and OpenGL, and runs the trained model upon request.
+This program teaches a machine learning model about the Z-buffer technique present in graphics card drivers and Graphics APIs like DirectX and OpenGL, and runs the trained model upon request.
 
 The majority of this artificial intelligence training project is a Unity project. If training data needs to be generated, Unity must be run initially. In Unity, when the project is executed, the camera can be moved using the arrow keys, and upon pressing the Enter key, it adds a new row to a CSV file with all the vertices and their connected triangles of objects in the scene. The visibility status of these points from the current camera frame is also added to the training data.
 
