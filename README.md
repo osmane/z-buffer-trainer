@@ -8,3 +8,6 @@ The model can be trained using 'Learn.py' with these data. The model can be exec
 The file 'my_model.h5' contains the model I trained.
 
 Much of the code has been written with the assistance of ChatGPT.
+
+
+Due to the large number of files and the library being outdated, I did not upload the library folder in its raw form. Instead, I compressed and uploaded it as 'library.zip', which you can use by unzipping. Alternatively, if you create a new project in Unity and overwrite it with the other file contents, it will likely resolve itself automatically.
